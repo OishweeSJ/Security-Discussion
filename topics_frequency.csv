@@ -1,0 +1,376 @@
+Topics,Frequency
+security,6
+security|login,4
+security|spam|signing|captcha,2
+security|authentication,2
+xss|security|sanitise|encode|attack|cookie|scripting,1
+ssh|tunnelling|login|security,1
+password|username,1
+authorise|security|login|ssl|md5|encrypt|signing|tampering,1
+ssh|public key|password|login|credential,1
+hash|md5|hmac|encode|authentication|password|validate,1
+trust|password|signing|scripting,1
+scripting|security|backdoor|password|validate,1
+oauth|login|authentication|authorise|scripting,1
+crypt|private key|public key,1
+security|hijacking|exploit|validate|authorise|theft|cookie|authentication|attack|malicious|scripting|snif|md5|password|encrypt|protect|xss|ssl,1
+ldap|ssl|certificate|security|validate|bypass|trust,1
+security|encrypt|signing|trust,1
+saml|security|authentication|protect|authorise|login|validate|credential|password|scripting|delegation|ldap|access control|rbac|signing|openid|oauth,1
+scripting|login|ssh|password|security|crypt,1
+authentication|authorise|user name|password|username|credential|cookie|login|forge|protect,1
+authentication|security|authorise,1
+password|validate,1
+encrypt|crypt|rijndael|cbc|cipher|aes|encode|forge|decode|signing,1
+scripting|encrypt|crypt|password,1
+cookie|authentication|login|validate,1
+captcha|security|decode|cookie,1
+signing|security|crypt|certificate,1
+sandbox|security,1
+scripting|password|login|vulnerability|malicious|inject|availability,1
+credential|scripting|privilege|username|password|security|encrypt,1
+certificate|security,1
+authentication|authorise|credential|login|signing|username|password,1
+checksum|scripting|md5|integrity,1
+single-sign-on|sso|saml|login|authentication,1
+authentication|security|login|authorise|encode|username|password|cookie|credential|oauth|ssl,1
+crypt|encrypt|tampering|protect|security|forge|cipher|aes,1
+login|username|password|access control,1
+security|spnego,1
+hmac|scripting|authentication|password|hash|encode|hack,1
+encrypt|crypt|password|security|md5|sha|salt|hash|protect|availability,1
+scripting|malware|security|firewall|protect,1
+ssh|tunnelling|login|scripting,1
+scripting|validate|login|authentication|password|username,1
+security|authentication|authorise|login,1
+security|ssl|sensitive information|login|username|password|scripting|authentication|credential|certificate|hash|transport|encrypt|protect|attack|disclosure|sql injection|owasp,1
+password|username|openssl|encrypt|crypt,1
+security|ssl|tls|certificate|rsa,1
+security|transport|certificate|trust|validate|insecure|bypass,1
+crypt|encrypt|password|hash|cipher|md5,1
+cookie|login|validate|scripting,1
+scripting|username|password|login|danger|security|authentication|openid,1
+captcha|tunnelling|validate|ssl|certificate,1
+scripting|validate|login|credential|delegation,1
+encrypt|md5|public key|openssl,1
+transport|security|validate,1
+cookie|scripting|obfuscate|validate,1
+scripting|validate|transport|oauth,1
+authentication|username|password|encode|encrypt,1
+scripting|cookie|credential|password|username|availability|login|validate,1
+signing|single-sign-on|authentication|credential|password|availability|sso|spnego|trust|username,1
+authentication|username|password|danger,1
+authentication|scripting|credential|forge,1
+encrypt|crypt|security|signing|rsa|attack,1
+ssl|security|delegation|availability|authorise,1
+ssl|certificate|authentication|username|password|signing|validate|public key,1
+encrypt|rijndael|cipher|signing|hash,1
+encrypt|oauth|signature|encode,1
+rsa|ssl|private key|hash|decode,1
+security|login|authentication|integrity,1
+scripting|single-sign-on|integrity|shibboleth,1
+rsa|crypt|encrypt|public key,1
+scripting|xss|sanitise,1
+scripting|login|username|password|credential|validate,1
+aes|encrypt|crypt|openssl,1
+protect|encrypt|crypt|cookie|security,1
+trust|certificate|integrity|private key|authentication|signing|authorise|tls|thread-safe|safe,1
+signing|aes|encrypt|cbc|signature|scripting|dsa|checksum,1
+hash|encrypt|password|hack|rijndael,1
+oauth|login|authorise|security|validate|protect|authentication,1
+scripting|authentication|login|credential|username|password,1
+password|signing,1
+encrypt|crypt|salt|cipher|security|crack|aes,1
+scripting|login|forge|password,1
+security|sql injection|attack,1
+forge|password|user name|login|encrypt,1
+login|oauth|security|thread-safe|safe|signing|encode,1
+security|signing|login|availability,1
+password|scripting|username|security|credential|signing,1
+signing|signature|encrypt|hash|integrity|certificate|validate,1
+cookie|login|forge|username|password|hash|protect|security,1
+encrypt|crypt|decode|cipher|password|hash|pbkdf2|sha,1
+security|danger|attack|vulnerability|validate,1
+crypt|ecdsa|public key|private key,1
+authorise|login|security|safe|password|snif|scripting|ssl|hash|authentication|openid|certificate|mitm|attack|credential|attack vector|encrypt,1
+aes|encrypt|crypt|scripting|cbc|insecure|encode|cipher|decode,1
+sql-injection|inject|protect|attack|unsafe|malicious|safe,1
+certificate|security|crypt|password|safe|authentication,1
+password|username|leak|login,1
+csrf|nonce|security|signing|signature|password|crypt|salt|attack|eavesdropping|authentication|credential|scripting|forge|protect|cookie,1
+x.509|certificate|authentication|credential,1
+security|authentication|username|password,1
+security|authentication|login|ssh|scripting|password|encode|protect,1
+hash|security|sha|md5,1
+attack|validate|oauth|nonce|openid|authorise,1
+cookie|security|authentication|authorise|availability|signing|violate|spoof,1
+encrypt|rsa|public-key|public key,1
+security|safe|scripting|forge|inject,1
+encrypt|crypt|rsa|public key|encode|private key|signing|unsafe|danger|safe,1
+encrypt|crypt|ssh|aes|openssh|cipher,1
+username|password|login|signing|danger,1
+scripting|validate|username|password|login,1
+encrypt|scripting|signature|cbc,1
+decode|scripting|encode|signing|availability,1
+aes|encrypt|crypt|salt,1
+authentication|password|login|encrypt,1
+security|openid|oauth|login|authorise|authentication|validate|hack,1
+security|signing|public key|signature|private key,1
+scripting|inject|encrypt|crypt|cookie,1
+thread-safe|safe|threadsafe|cookie,1
+security|login|password,1
+signing|certificate|signature|rsa,1
+encrypt|crypt|scripting|password|pbkdf2,1
+aes|encrypt|crypt|openssl|cbc|md5,1
+security|signing|rsa|private key|decode|public key|crypt|encrypt|aes|availability,1
+insecure|security|ssl|certificate|trust,1
+ldap|authentication|login|username|password|security,1
+security|certificate|authentication|authorise|user name|login|privilege|protect|delegation,1
+honeypot|validate|hack|scripting,1
+authentication|username|password|login,1
+authentication|oauth|login|scripting|ssl|cookie|username|password|credential|authorise,1
+scripting|security|signing|hash|hack|obfuscate|encrypt|vulnerability,1
+scripting|security,1
+sandbox|scripting|login|forge,1
+scripting|login|transport|availability|unsafe,1
+username|password|credential|validate,1
+decode|encrypt|crypt|login|password|hash|signing,1
+credential|inject|username|password|authentication|authorise|openid|scripting,1
+username|password|login|scripting,1
+security|authorise|integrity|availability,1
+crypt|signing|certificate|validate|private key|dsa|rsa|availability,1
+crypt|encrypt|security|intruder|cipher|cryptanalysis|attack|public-key|tls|validate,1
+crypt|security,1
+signing|validate|security|scripting|encrypt,1
+sandbox|ssl|security|username|password|credential,1
+username|security|scripting|user name,1
+authentication|login|authorise|username,1
+crypt|encrypt,1
+aes|crypt|encrypt|scripting|login|encode|cipher|cbc|security,1
+security|scripting|violate|xss,1
+crypt|rsa|private key|encrypt|aes|decode|encode,1
+sql-injection|sql injection|signing|security,1
+crypt|encrypt|rsa,1
+ssl|scripting|tunnelling|firewall|rsa|x.509|encrypt|private key|signing|certificate|public key|authorise,1
+certificate|signature|hash|encode|crypt|validate,1
+aes|encrypt|crypt|cbc|encode,1
+security|username|malicious|login,1
+protect|cookie|certificate|security|illegitimate|hijacking|authentication|ssl|encrypt,1
+scripting|decode|encode|login,1
+scripting|security|login,1
+security|encrypt|crypt|ssl|transport|sensitive information|username|password|attack|snif|steal|private key|certificate|signing,1
+crypt|cipher,1
+openssl|validate|signature|public key|scripting,1
+crypt|password|salt|encrypt|cipher,1
+scripting|password|security|protect|transport|ssl|certificate|validate|encrypt|crypt|eavesdropping|authentication|mitm|attack|public key|private key|signing|authorise,1
+security|safe|scripting|validate,1
+integrity|ldap|authentication|signing,1
+login|username|password|validate|credential,1
+hash|security|password|salt|md5|sha|pbkdf2|crypt|scripting|login|encrypt|hmac|attack|owasp,1
+aes|crypt|hash,1
+validate|password|hash|encrypt|crack,1
+oauth|authentication|login|security,1
+security|authorise|authentication|username|decode,1
+oauth|signing|integrity|authorise|validate,1
+crypt|encrypt|encode|vulnerability|attack|security|cipher|decode|signing,1
+certificate|openssl|ssl|validate|crypt,1
+security|authorise,1
+encrypt|scripting|password|login|hash|attack,1
+ssl|certificate|authentication|security|trust,1
+cookie|scripting|inject|signing,1
+authentication|scripting|cookie|authorise,1
+security|ssl|validate|tls|cipher|rsa|aes|cbc|sha,1
+ssl|certificate|fingerprint|signing|signature|safe|encrypt|availability,1
+forge|password|username|login|signing,1
+openssl|ssl|cipher|rsa|certificate|scripting|availability|tls,1
+login|scripting|password|signing|username,1
+authentication|transport|credential|security|username|password|integrity|validate,1
+security|safe|inject|captcha|signing|csrf|spam|protect|encrypt|crypt|validate|owasp|malicious|xss|audit|whitelist,1
+scripting|crypt|pbkdf2|password|authentication|hash|encode|salt|decode,1
+user account|login|password|username|vulnerability|sql-injection|security|hash|md5|authentication|sql injection,1
+crypt|scripting|cipher|encode,1
+scripting|security|exploit|0 day|protect,1
+security|validate|username|protect|safe|sanitise,1
+security|ssl|certificate|signing|trust|validate,1
+delegation|transport|security|privilege|authentication,1
+encrypt|crypt|public-key|security|private key|availability|public key|signing|openssl|ssl|password|pgp|encode|protect|pki|trust|leak|gnupg|signature|fraud|tampering|disclosure|threat|attack|rsa|safe,1
+asset|security|ssl|certificate|attack|encrypt|crypt|availability|obfuscate,1
+login|security|username|password,1
+security|ssl,1
+signing|security|signature|validate|hash|public key|tampering|protect|trust,1
+oauth|signing|login|validate|scripting,1
+login|password|authentication|delegation|forge,1
+encrypt|password|protect|login,1
+certificate|ssl|public key|openssl,1
+cookie|csrf|login|authentication|security|ssl,1
+authentication|oauth|openid|username|password|authorise|bypass|credential|login|cookie|validate,1
+hash|encrypt|crypt|password|sha|attack|pbkdf2|md5|forge|nonce|login|security|salt|availability,1
+rsa|ssh|private key|validate,1
+crypt|signing|signature|public key|certificate,1
+csrf|encode|authentication|cookie|decode,1
+ssl|private key|password|openssl|certificate|validate,1
+authorise|openid|username|password|user account|privilege|authentication|login,1
+aes|crypt|encrypt|validate|cipher,1
+password|privilege|encrypt|hash|backdoor|login|security|credential|forge,1
+security|oauth|validate|credential|authentication|trust|encrypt|crypt|ssl|certificate,1
+sftp|username|password|authentication|login,1
+ecdsa|dsa|ssh|fingerprint|scripting|rsa,1
+sftp|ssh|public key|scripting|openssh,1
+ssl|certificate|validate|trust|authorise|tls,1
+oauth|security|authorise|password|validate|login,1
+security|login|authorise|authentication,1
+saml|authentication|signing|encrypt|crypt|signature,1
+oauth|password|signing|login|validate|authentication,1
+security|authentication|validate|user name|password|authorise|ldap,1
+scripting|password|login|credential|authorise,1
+md5|hash|signature|checksum|tampering|validate|integrity|authorise,1
+ssh|scripting|signing|password|credential,1
+authentication|authorise|encode|username|password|security,1
+exploit|security|scripting|safe|encode|validate|confidential|attack,1
+login|scripting|username|password|sanitise,1
+scripting|password|security|crypt,1
+security|login|credential|password|validate|authentication,1
+validate|security|scripting|protect|password|signing|credential,1
+authentication|ldap|username|password|login|hash,1
+encrypt|crypt|encode|aes|cbc|transport|security|attack,1
+crypt|rsa|encode|private key,1
+security|virus|availability,1
+ssl|tls|certificate|validate|authentication|security,1
+ssh|credential|authorise|username|password|private key,1
+crc|hash|md5|integrity|checksum,1
+credential|scripting|user name|password,1
+sql-injection|security|scripting|safe,1
+authentication|authorise|encode|username|password,1
+security|scripting|danger|availability|sandbox|exploit,1
+signing|security|validate,1
+csrf|login|cookie|username|password|firewall|security|burp,1
+authentication|security|integrity|credential|login|authorise|cookie,1
+authentication|authorise|security|certificate,1
+encrypt|crypt|openssl|hack|safe,1
+security|signing|login|validate,1
+scripting|ssl|certificate|authorise|validate|insecure,1
+authentication|username|password|credential|encrypt|crypt|malicious|security|private key,1
+scripting|sha|hmac|encrypt,1
+signing|signature|saml|certificate|sso|password|decode|availability|security|trust|openssl|private key|public key,1
+openssl|rsa|encrypt|crypt|public key|forge,1
+authentication|scripting|password|forge,1
+encrypt|scripting|diffie hellman|ssl|security|authentication|certificate|authorise|public key,1
+security|ssl|encrypt|username|scripting|credential|ssh|tunnelling|trust|virus,1
+openssl|signature|decode|encode,1
+crypt|hash|password|login|security|salt|rainbow table|attack,1
+signing|private key|rsa|encrypt|crypt|encode,1
+scripting|captcha|bypass|malicious,1
+crypt|rsa|signing|certificate|encrypt|signature,1
+authentication|username|password|protect,1
+authentication|username|password|validate|login|credential,1
+crypt|signing|certificate|hsm,1
+security|credential|transport|ssl,1
+scripting|signing|authentication|login|inject|cookie,1
+ssl|certificate|trust|validate,1
+signing|signature|openssl|rsa|private key|crypt,1
+crypt|encrypt|insecure|security|public key|signing|rsa|ssh|openssh|openssl,1
+authentication|login|username|password|scripting|signing|validate,1
+crypt|rsa|encrypt|cipher|encode|decode,1
+inject|scripting|signing|signature|validate,1
+security|hack|encrypt|password|md5|xss|sql injection|hijacking|scripting|protect|ssh|trojan|steal,1
+login|cookie|insecure|hash|validate,1
+login|validate|password|signing,1
+ssh|fingerprint|security|rsa|md5,1
+authentication|scripting|validate|password|signing,1
+security|scripting|password|encode|nonce|hash|authorise|validate,1
+scripting|password|security|vulnerability|authorise|signing|validate|crypt|encode,1
+scripting|security|xss|exploit|decode|attack|vulnerability|safe|unsafe|encrypt,1
+ssl|whitelist|certificate|validate,1
+security|login|oauth,1
+password|credential|scripting|danger|user name|nonce|signing|user account,1
+scripting|signing|login|oauth,1
+certificate|private key|signing|authorise|tls|trust|pki|security|hack|public key,1
+encrypt|crypt|rc4|cipher|encode,1
+scripting|signing|username|password,1
+security|signing,1
+security|sql-injection|sql injection|vulnerability|protect|attack|malicious|leak,1
+security|validate|signing|signature,1
+authorise|scripting|username|password|credential|forge,1
+crypt|encrypt|scripting|aes|cipher|security|attack|password|pbkdf2|authentication|malicious|vulnerability|hmac,1
+authentication|login|username|security|saml,1
+oauth|signing|password|authentication|credential|login,1
+login|password|md5|encrypt|crypt|safe|hash|insecure|pbkdf2|sql injection,1
+authentication|scripting|login|password,1
+login|forge|password|signing|hack,1
+security|authentication|safe|trust|privilege|hijacking|audit,1
+scripting|login|authentication|username|password,1
+trust|security|integrity|authentication|ldap,1
+login|password|user name|insecure|sql injection,1
+security|safe|login|encode|encrypt|cookie,1
+scripting|security|attack|cookie,1
+crypt|hash|password|security|login|trust,1
+oauth|validate|security|protect,1
+crypt|openssl|encrypt|encode|scripting|rijndael|cipher|authentication|salt,1
+scripting|xss|inject|sanitise|attack,1
+authentication|scripting|csrf|login,1
+hash|password|salt|security|crack|validate|login,1
+ssh|public key|rsa|password,1
+security|credential|authentication|delegation,1
+authentication|validate|authorise|availability,1
+authentication|security|authorise|login|trust|validate,1
+scripting|validate|username|password|saml,1
+security|availability|penetration test|bypass|login|authorise|signing,1
+user name|login|credential|password|username,1
+validate|scripting|bypass|hack|cross site|security|danger|signing|protect|vulnerability|malicious,1
+scripting|validate|username|password,1
+rsa|openssl|encrypt|password|private key,1
+ssl|trust|certificate|validate,1
+certificate|ssl|private key|validate|tls|trust|authentication|signing|openssl|cipher|forge,1
+password|login|validate|hash,1
+login|username|password|integrity|security,1
+aes|crypt|encrypt|scripting|cbc,1
+scripting|security|safe|unsafe|sanitise|cross-site|vulnerability,1
+hash|password|crypt|salt|rainbow table|hack|security|availability|vulnerability,1
+encrypt|security|certificate|validate|authorise,1
+login|username|password|security|credential|authentication,1
+rsa|private key|public key|certificate,1
+encrypt|crypt|password|cipher,1
+encrypt|crypt|md5|password|encode|decode,1
+security|encrypt|crypt|password|aes|rijndael,1
+authentication|nonce|username|password|login,1
+ssl|authentication|signing|certificate|validate,1
+ssl|openssl|certificate|crypt,1
+hash|password|security|crypt|hack|login|leak|attack|salt|protect|safe|sha|hmac|integrity|sql-injection|availability|signing|vulnerability|encrypt|cipher|breach|validate|user account,1
+crypt|hash|security|rsa|encrypt|cipher,1
+crypt|md5|hash|password,1
+security|ssl|encrypt|forge|safe,1
+security|oauth|authentication|validate|login,1
+authentication|ssl|certificate|cipher|trust|private key|insecure|signing|rsa,1
+security|authentication|login|authorise|access-control,1
+security|oauth,1
+encrypt|crypt|aes|availability,1
+xss|vulnerability|scripting|danger|security,1
+ssh|tunnelling|private key|safe|security|signature|public key,1
+password|encrypt,1
+openssl|rsa|encrypt|private key|signing|availability,1
+ssh|scripting|password|authentication,1
+cookie|security|login|csrf|signing|validate,1
+forge|password|login|signing|validate|oauth|credential,1
+password|pbkdf2|crack|hash|security|crypt|attack|salt|safe,1
+scripting|password|username|authentication|0 day|forge,1
+login|username|password|security|cookie,1
+crypt|encrypt|cbc,1
+validate|username|availability|scripting,1
+authentication|cookie|login|username|password,1
+security|scripting|obfuscate|md5|salt|encrypt|crypt|password|protect|hash,1
+security|protect|malicious|trust,1
+oauth|login|security|encrypt|password|username|credential|authentication|authorise,1
+aes|crypt|scripting|pbkdf2|safe|encrypt|salt|cipher|password|openssl,1
+sql-injection|sql injection|safe|hack|protect,1
+credential|scripting|username|authentication|password,1
+password|encrypt|hmac|obfuscate|security|credential|authentication,1
+encrypt|crypt|bypass|encode|decode,1
+login|trust|integrity|security|authentication,1
+safe|security|danger|availability|mitm|attack|eavesdropping|credential|ssl|certificate,1
+scripting|login|username|password|signing,1
+password|safe|username|security|hack|steal|login|sensitive information|encrypt|crypt,1
+hmac|signature|oauth|validate,1
+cookie|protect|captcha|scripting|virus|honeypot,1
+authentication|ssh|username|password,1
+scripting|forge|password|username,1
+hash|password|salt|security|attack|rainbow table|signing|snif|adversarial|vulnerability,1
